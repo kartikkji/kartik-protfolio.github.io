@@ -1,0 +1,60 @@
+[
+  
+ 
+  {
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
+    "links": {
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
+    }
+  },
+  {
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+ 
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/jigar-sable/web-ui-clones",
+      "code": "https://github.com/jigar-sable/web-ui-clones"
+    }
+  },
+  
+  
+ 
+ 
+  
+  {
+    "name": "Hotel Management System",
+    "desc": "A full-stack web application designed to manage hotel operations efficiently. It includes features like room booking, customer management, and real-time availability updates.",
+    "features": [
+      "Room booking system with real-time availability.",
+      "Customer details management and history tracking.",
+      "Admin dashboard for managing hotel operations.",
+      "Responsive UI for seamless experience on desktop and mobile."
+    ],
+    "technologies": [
+      "Java",
+      "Spring Boot",
+      "PostgreSQL"
+    ],
+    "image": "hotel_management_web",
+    "category": "fullstack",
+    "links": {
+      "code": "https://github.com/kartikkji/Hotel-managements"
+    }
+  }
+]
